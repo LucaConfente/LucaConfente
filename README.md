@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=200&section=header&text=Luca%20Confente&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Programmer%20%7C%20Data%20Scientist&descAlignY=55&descColor=a0c4ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,19&height=200&section=header&text=Luca%20Confente&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Programmer%20%7C%20Data%20Scientist&descAlignY=55&descColor=d0aaff" />
 
 </div>
 
@@ -97,7 +97,7 @@ print(eu.hello())
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,19&height=100&section=footer" />
 
 </div>
 
