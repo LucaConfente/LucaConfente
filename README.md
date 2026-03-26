@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Luca%20Confente&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20Backend%20Developer&descAlignY=55&descColor=8b949e" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=200&section=header&text=Luca%20Confente&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20Backend%20Developer&descAlignY=55&descColor=a0c4ff" />
 
 </div>
 
@@ -12,6 +12,7 @@
 class LucaConfente:
     def __init__(self):
         self.nome      = "Luca Confente"
+        self.localizacao = "Brasil 🇧🇷"
         self.foco      = ["Python", "Backend", "Automação"]
         self.estudando = ["APIs REST", "OpenAI Integration", "Web Development"]
         self.contato   = "luca.bconfente@gmail.com"
@@ -37,6 +38,8 @@ print(eu.hello())
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
@@ -46,15 +49,35 @@ print(eu.hello())
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucaConfente&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=LucaConfente&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaConfente&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaConfente&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=LucaConfente&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+<img width="70%" src="https://streak-stats.demolab.com?user=LucaConfente&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" />
+
+</div>
+
+---
+
+### 🏆 Troféus
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=LucaConfente&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6" />
+
+</div>
+
+---
+
+### 📅 Atividade Recente
+
+<div align="center">
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=LucaConfente&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
@@ -64,7 +87,7 @@ print(eu.hello())
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-confente-13499a2b8/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-confente)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luca.bconfente@gmail.com)
 
 </div>
@@ -73,8 +96,10 @@ print(eu.hello())
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=100&section=footer" />
 
-<img src="https://komarev.com/ghpvc/?username=LucaConfente&color=58a6ff&style=flat-square&label=Visualizações+do+perfil" />
+</div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=LucaConfente&color=58a6ff&style=for-the-badge&label=VISUALIZA%C3%87%C3%95ES+DO+PERFIL" />
 </div>
