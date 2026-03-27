@@ -96,11 +96,11 @@ print(eu.hello())
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=100&section=footer" />
-
+  <img src="https://komarev.com/ghpvc/?username=LucaConfente&color=58a6ff&style=for-the-badge&label=VISUALIZA%C3%87%C3%95ES+DO+PERFIL" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LucaConfente&color=58a6ff&style=for-the-badge&label=VISUALIZA%C3%87%C3%95ES+DO+PERFIL" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=100&section=footer" />
+
 </div>
