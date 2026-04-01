@@ -81,7 +81,7 @@ print(eu.hello())
 | [🤖 Projeto_OpenAI_Integration](https://github.com/LucaConfente/Projeto_OpenAI_Integration-) | Integração com a API da OpenAI | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
 | [🚌 Rio-Bus-Tracker](https://github.com/LucaConfente/Rio-Bus-Tracker) | Rastreador de ônibus do Rio de Janeiro | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
 | [🔗 PBE BackLink](https://github.com/LucaConfente/Projetos-de-Extensao) | Projeto de extensão universitária | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) |
-| [🌐 Desenvolvimento-WEB](https://github.com/LucaConfente/Desenvolvimento-WEB) | Projetos de desenvolvimento web | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| [⚖️ Verita.Juris](https://github.com/LucaConfente/Verita.Juris) | Projetos de de Hackathon | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
 
 </div>
 
