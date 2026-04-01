@@ -10,15 +10,28 @@
 
 ```python
 class LucaConfente:
+
     def __init__(self):
-        self.nome      = "Luca Confente"
-        self.localizacao = "Brasil 🇧🇷"
-        self.foco      = ["Python", "Backend", "Automação"]
-        self.estudando = ["APIs REST", "OpenAI Integration", "Web Development"]
-        self.contato   = "luca.bconfente@gmail.com"
+        self.localizacao  = "Rio de Janeiro, Brasil 🇧🇷"
+        self.formacao     = "Ciência de Dados & IA"
+        self.buscando     = "Estágio em Tech, Dados ou Dev de Software"
+        self.contato      = "luca.bconfente@gmail.com"
+
+        self.stack = {
+            "frontend" : ["React.js", "JavaScript", "HTML5", "CSS3"],
+            "backend"  : ["Python", "Django", "Java", "Node.js"],
+            "dados"    : ["SQL", "Power BI", "Pandas", "Colab"],
+            "devops"   : ["Git", "GitHub"],
+        }
+
+        self.estudando = ["Machine Learning", "LLMs & OpenAI API"]
 
     def hello(self):
-        return "Olá! Seja bem-vindo ao meu perfil 🚀"
+        return (
+            "Dev full stack & estudante de IA.\n"
+            "Apaixonado por dados, código limpo e soluções escaláveis 🚀"
+        )
+
 
 eu = LucaConfente()
 print(eu.hello())
